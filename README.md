@@ -13,10 +13,10 @@ Welcome to my GitHub profile. I'm a passionate and self-driven developer with a 
 ## 💻 My Core Skills
 
 * **Programming Languages:** Python, MySQL 
-* **Machine Learning:** Neural Networks, [Add specific ML algorithms/concepts, e.g., Regression, Classification, Clustering, NLP, Computer Vision]
+* **Machine Learning:** Neural Networks, Regression, Classification, Clustering, NLP
 * **Data Science Tools:** Jupyter Notebooks, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Version Control:** Git, GitHub
-* **Other:** Web Development Basics : HTML , CSS, Litte bit of Javascript
+* **Other:** Web Development Basics : HTML , CSS, Little bit of Javascript
 
 ---
 
